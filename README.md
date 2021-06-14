@@ -6,7 +6,7 @@ _Este es el Juego de Pong en **Python** con interfaz gráfica usando **turtle**_
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
 ### Pre-requisitos 📋
-_Para poder hacer uso de esta calculadora debes de tener intalado **Python 3**_
+_Para poder hacer uso de esta aplicación debes de tener instalado **Python 3**_
 
 ### Instalación 🔧
 
@@ -18,7 +18,7 @@ git clone https://github.com/cristiandares/JuegoPong.git
 ```
 
 ### Ejecutando la aplicación ⚙️
-_Ahora puedes ejecutar la aplicacion desde el terminal con el siguiente comando_
+_Ahora puedes ejecutar la aplicación desde el terminal con el siguiente comando_
 
 Si estas en **Windows**
 ```
